@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "nanoid": "^3.3.4"
+  },
+  "engines": {
+    "node": "18.13.0"
   }
 }
