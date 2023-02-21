@@ -22,3 +22,5 @@ When visiting the live link the user will be greeted with a note page and can cl
 
 
 ## Deployed link
+
+https://express-note-taker-js.herokuapp.com/
